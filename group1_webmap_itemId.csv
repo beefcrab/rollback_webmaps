@@ -1,0 +1,28 @@
+ENV,CODE,SUBTITLE,APPNAME,ITEMID,DOMAIN
+dev,nvge,dgweb 3.0,Netview,4e4a6d54ff60462888c046805bfa888a,wsldctdgweb
+dev,nvcu,dgweb 3.0,Netview for Customer,ea94dc8ffa86488eac3dc4ffe7490666,wsldctdgweb
+dev,nvop,dgweb 3.0,Netview for Operations,1baf49046fd5482098de330b8ef1f88d,wsldctdgweb
+dev,nvms,dgweb 3.0,Netview for MSN,b570377b6e50448aae9040d69f757d1e,wsldctdgweb
+dev,nvin,dgweb 3.0,Netview for Planning,a87d625d6df44955a982928293481671,wsldctdgweb
+dev,nvpr,dgweb 3.0,Netview for Property,a8e8c13232b44cebadb66d18cd92e3e7,wsldctdgweb
+dev,nvwo,dgweb 3.0,Netview for Worksover Editing,57f6c1744b3d4085ab24ca82f55206a3,wsldctdgweb
+dev,nvmd,dgweb 3.0,Netview for Major Developments,f24b6693818c4724995b36dfff1614b1,wsldctdgweb
+dev,nvdt,dgweb 3.0,Netview for Developer Services,20b3c724258947ccba95f5ad3be57a8c,wsldctdgweb
+test,nvge,tgweb 3.0,Netview,64cbd89bed4643bd9517f5f19ecf4402,wsldcttgweb
+test,nvcu,tgweb 3.0,Netview for Customer,b5848da15113459c884a4a0d16b2beb0,wsldcttgweb
+test,nvop,tgweb 3.0,Netview for Operations,6237748f1f4e4d78b650944acda9ce0f,wsldcttgweb
+test,nvms,tgweb 3.0,Netview for MSN,9c8bd3d73d984ab8b05475bdea665b57,wsldcttgweb
+test,nvin,tgweb 3.0,Netview for Planning,7634844c7335467abee40653940963ed,wsldcttgweb
+test,nvpr,tgweb 3.0,Netview for Property,cbd6c0149cf04275afd5d69a512dca3b,wsldcttgweb
+test,nvwo,tgweb 3.0,Netview for Worksover Editing,6ef1f788d1b74ae5b11f889bac781148,wsldcttgweb
+test,nvmd,tgweb 3.0,Netview for Major Developments,1b731a9079f542798f3b90ce935f0311,wsldcttgweb
+test,nvdt,tgweb 3.0,Netview for Developer Services,2f91f928e1d84a35a67dbd64ac3770b1,wsldcttgweb
+prod,nvge,pgweb 3.0,Netview,01466cdb5be841dd889a47b091bf461d,wsldctpgweb
+prod,nvcu,pgweb 3.0,Netview for Customer,99e0c8d5361c41c68b024b47fcd0ad0b,wsldctpgweb
+prod,nvop,pgweb 3.0,Netview for Operations,a132af3da2334149a73fb6140eb600b5,wsldctpgweb
+prod,nvms,pgweb 3.0,Netview for MSN,4b51ca66a6184e15bb7454c11a077fc7,wsldctpgweb
+prod,nvin,pgweb 3.0,Netview for Planning,42adbd692d2d4271a9f6e7ab8c302800,wsldctpgweb
+prod,nvpr,pgweb 3.0,Netview for Property,239e11492d2942debbab6c4c8ad8190d,wsldctpgweb
+prod,nvwo,pgweb 3.0,Netview for Worksover Editing,2b92642a9b8b41e7a3b8f0ce0b2f3886,wsldctpgweb
+prod,nvmd,pgweb 3.0,Netview for Major Developments,7f134260b8a44286a6b6bf3a0cb4162c,wsldctpgweb
+prod,nvdt,pgweb 3.0,Netview for Developer Services,217882f274d04ee8953e0f8d50b6e65d,wsldctpgweb
